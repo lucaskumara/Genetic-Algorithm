@@ -4,7 +4,7 @@ A simple genetic algorithm written from scratch
 Note: I do not own the code within FitnessCalculator.java. This was provided to us by our professor.
 
 ## Purpose
-The purpose of the assignment was to create a genetic algorithm from scratch that could figure out how to unshred a "shredded document". These shredded documents were provided to us in the form of text files that were denoted as shredded. The algorithm would use make use of a variety of genetic operators in an attempt to bring the shredded file back into a fully readable text.
+This assignment was the second assignment given to me when I took intro to artificial intelligence. The purpose of the assignment was to create a genetic algorithm from scratch that could figure out how to unshred a "shredded document". These shredded documents were provided to us in the form of text files that were denoted as shredded. The algorithm would use make use of a variety of genetic operators in an attempt to bring the shredded file back into a fully readable text.
 
 ### Genetic Operators
 The algorithm implemented four types of genetic operators. Two types of crossover and two types of mutation. 
