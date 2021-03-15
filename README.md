@@ -1,5 +1,5 @@
 # Genetic-Algorithm
-A simple genetic algorithm written from scratch
+A simple genetic algorithm written from scratch.
 
 Note: I do not own the code within FitnessCalculator.java. This was provided to us by our professor.
 
